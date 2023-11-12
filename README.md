@@ -1,2 +1,2 @@
 # ai-shorts-generator
-Generate shorts using a GPT query (with caption - full auto)
+Generate shorts using AI (a GPT query) (with caption - full auto)
